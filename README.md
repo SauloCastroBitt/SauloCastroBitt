@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SauloCastroBitt
 - 👀 I’m currently working at Wipro do Brasil Tecnologia Ltda.
-- 🌱 I’m currently learning HTML,CSS, JAVASCRIPT e REACT
+- 🌱 I’m a JAVA programmer!
 - 📫 How to reach me saulobere@hotmail.com
 
 <!---
